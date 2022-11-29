@@ -5,7 +5,7 @@ import { Box, Container, Flex, Grid, Image, Link, Text } from '@chakra-ui/react'
 
 const Main = () => {
   return (
-<div style={{backgroundColor:'#020202'}}>
+<div >
 
         
     <Flex bg= "#3c3823" color="white" mt='1px' justifyContent='space-around'  position='sticky'> 
@@ -22,8 +22,21 @@ const Main = () => {
          </Flex>
     </Flex>
 
-<Box>
-    text
+<Box border='2px solid goldenrod' m='2em' borderRadius='20'>
+  <Flex justifyContent='space-around'>
+
+  <Text color='white' fontFamily='Tangerine' fontSize='30px' bgColor="">
+    Lorem ipsum dolor sit amet consectetur, <br />
+    adipisicing elit. Rerum id <br />
+     consequuntur accusamus inventore odit voluptate facilis saepe, itaque sit veritatis. Labore, magnam eos?
+  </Text>
+  <Container bg='whiteAlpha.500' w='15%'borderRadius='20%'>
+
+  <Image src='https://i.postimg.cc/gJvYZB3r/for-resume-removebg-preview.png' h='200px' borderRadius='10%' />
+  </Container>
+  </Flex>
+
+    
 </Box>
 
 
