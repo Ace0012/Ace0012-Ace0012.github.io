@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.bd12c043.css",
-    "main.js": "/static/js/main.f3784275.js",
+    "main.js": "/static/js/main.ff5e8399.js",
     "static/media/flipkart.PNG": "/static/media/flipkart.026ae762a2746385a0e8.PNG",
+    "static/media/bewakoof.jpeg": "/static/media/bewakoof.621c4b5ea86ccbae2827.jpeg",
     "static/media/ayushc.PNG": "/static/media/ayushc.c914382b4b782e9c9c1a.PNG",
+    "static/media/pluralsight.jpeg": "/static/media/pluralsight.df523a7ea85a8db47af8.jpeg",
     "static/media/monkey.PNG": "/static/media/monkey.feef5832017de1190587.PNG",
     "static/media/ayush.jpg": "/static/media/ayush.c7bcbf2bf9654d8279f6.jpg",
     "static/media/react.svg": "/static/media/react.e5f031c5a9d7c5a3228393d92fc55e03.svg",
@@ -26,10 +28,10 @@
     "static/media/material.svg": "/static/media/material.fd510ed8518b192069590b04e2e6348a.svg",
     "static/media/heroku.svg": "/static/media/heroku.b7e7f910d905c15ac7d6cca770ba02b0.svg",
     "main.bd12c043.css.map": "/static/css/main.bd12c043.css.map",
-    "main.f3784275.js.map": "/static/js/main.f3784275.js.map"
+    "main.ff5e8399.js.map": "/static/js/main.ff5e8399.js.map"
   },
   "entrypoints": [
     "static/css/main.bd12c043.css",
-    "static/js/main.f3784275.js"
+    "static/js/main.ff5e8399.js"
   ]
 }
